@@ -93,7 +93,7 @@ if __name__ == '__main__':
 #FIM DO PROGRAMA
 #OBSERVAÇÕES:
 # 1° - if __name == '__main__' SERVE PARA NÃO EXISTIR CONFLITO NOS TESTES DOS ARQUIVOS DE CLASSE
-# 2° -
+
 
 
 
