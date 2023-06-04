@@ -52,7 +52,7 @@ print(playstation_sala.cor)
 from datetime import datetime
 import pytz
 from random import randint
-class ContaCorrente():
+class ContaCorrente:
     #CRIANDO UM "DOCSTRING"
     """
     Cria um objeto ContaCorrente para gerenciar as contas dos clientes
